@@ -3,14 +3,15 @@
 A sleek, modern to-do list built with **HTML**, **CSS**, and **jQuery**. Features localStorage support, task completion, and smooth UI animations — all wrapped up in a responsive and aesthetic layout.
 
 ---
-
 ## 🚀 Features
 
-- ✅ Add and delete tasks
-- ✨ Mark tasks as complete
-- 💾 Auto-save tasks using localStorage
-- 🎨 Responsive & clean UI with Font Awesome icons
-- ⚡ Fast, lightweight, and no frameworks needed
+- ✅ Add, delete, and mark tasks as complete
+- 🕒 Each task shows the time it was created
+- 💾 Tasks are auto-saved with `localStorage`
+- 👋 Greeting message on app launch (Good Morning / Afternoon / Evening)
+- 🎨 Aesthetic, responsive UI with hover effects and animations
+- ⚡ Smooth fade/slide transitions on task actions
+- 🧠 Keyboard support (press Enter to add tasks)
 
 ---
 
